@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **amyjrichards/amyjrichards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://github.com/amyjrichards/amyjrichards/blob/main/GitHubHeader.png "Header")](https://github.com/amyjrichards)
 
