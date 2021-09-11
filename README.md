@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://raw.githubusercontent.com/amyjrichards/amyjrichards/GitHubHeader.png "Header")](https://github.com/amyjrichards)
+[![Header](https://github.com/amyjrichards/amyjrichards/blob/main/GitHubHeader.png "Header")](https://github.com/amyjrichards)
+
